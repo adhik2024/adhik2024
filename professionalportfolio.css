@@ -220,6 +220,11 @@ html{
 
     }
 
+      .right h2{
+        font-size: 24px;
+    
+}
+
 }
 
 @media  screen and  (min-width: 850px ) and (max-width:850px ),(min-height:930px) and (max-height:2000px){
@@ -248,5 +253,8 @@ html{
         transform: none;
         background-color: #4F7942;
     }
+
+    .right h2{
+        font-size: 24px;
     
 }
