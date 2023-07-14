@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, My name is Manashi Adhikari👋
 📫 How to reach me: manashiadhikari_2024@depauw.edu
 - 😄 Pronouns: she/her
 <!--
