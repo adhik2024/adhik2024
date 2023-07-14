@@ -1,5 +1,6 @@
 ### Hi there, My name is Manashi Adhikari👋
 📫 How to reach me: manashiadhikari_2024@depauw.edu
+This is my Rick and Morty inspired personal portfolio website
 - 😄 Pronouns: she/her
 <!--
 **adhik2024/adhik2024** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
