@@ -58,11 +58,6 @@ html{
    max-width:50vw;
 }
 
-.right li{
-    margin-top:1rem;
-}
-
-}
 #portalgun{
     height: 40vh;
     rotate: -220deg;
@@ -103,6 +98,10 @@ html{
     top:0vh;
     right:0vw;
  
+}
+
+.right li{
+    margin-top:1rem;
 }
 .right p{
     line-height: 200%;
