@@ -57,6 +57,9 @@ html{
 .portalgun{
    max-width:50vw;
 }
+li{
+    line-break: 2;
+}
 #portalgun{
     height: 40vh;
     rotate: -220deg;
