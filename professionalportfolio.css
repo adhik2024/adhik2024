@@ -57,8 +57,11 @@ html{
 .portalgun{
    max-width:50vw;
 }
-li{
-    line-break: 2;
+.right li{
+.right li{
+    margin-top:1rem;
+}
+
 }
 #portalgun{
     height: 40vh;
