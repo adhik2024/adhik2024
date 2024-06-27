@@ -9,13 +9,12 @@ const informationDiv = document.getElementById('information');
 // Add event listeners to the buttons
 ncellButton.addEventListener('click', function () {
     informationDiv.innerHTML = `
-    <p>Front End Intern                              (  May 2023-July2023
+    <p>Product Manager Intern                            (  December 2024- Present
         )
     <ul>
-        <li>Identified compatibility gaps on the website when accessed on smaller screen devices and took proactive measures to address them effectively. Employed responsive design techniques and optimized the user interface to guarantee a seamless and intuitive user experience across all screen sizes, ultimately enhancing accessibility and usability.  
+        <li>Effectively utilized Jira for agile project management, including tracking tasks, and managing sprints.  
         </li>
-        <li> Performed comprehensive cross-browser testing and executed targeted optimizations to enhance overall performance and elevate user experience.
-
+        <li> Facilitated seamless collaboration and communication between UX/UI designer and software engineers, ensuring alignment of design requirements with technical implementation. 
 </li>
        
     </ul>
